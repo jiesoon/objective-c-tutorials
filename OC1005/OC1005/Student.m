@@ -15,7 +15,7 @@
 
 -(void) print
 {
-    NSLog(@"%@: %@: %@: %d: %d: %d", fristName, lastName,
+    NSLog(@"%@: %@: %@: %d: %d: %d", firstName, lastName,
           gender ? @"male" : @"female",
           age, height, weight);
 }
