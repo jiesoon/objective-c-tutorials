@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>244AA553-D038-4738-A7BC-F51D6ABF8DAF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA36762088CEAF8502192DCDB8530D89AF6E5814</key>
+		<string>github.com:jiesoon/objective-c-tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OC1010/OC1010.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA36762088CEAF8502192DCDB8530D89AF6E5814</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jiesoon/objective-c-tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA36762088CEAF8502192DCDB8530D89AF6E5814</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA36762088CEAF8502192DCDB8530D89AF6E5814</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objective-c-tutorials</string>
+		</dict>
+	</array>
+</dict>
+</plist>
